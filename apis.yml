@@ -1,0 +1,28 @@
+aid: axiomworks-co-uk
+name: Axiom Works AgentReader
+description: 'Axiom Works AgentReader is a company surfaced via the API Evangelist harvest backlog (source:
+  new-submission) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/axiomworks-co-uk/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-08'
+modified: '2026-11-08'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://api.axiomworks.co.uk/
+- type: Documentation
+  url: https://api.axiomworks.co.uk/llms.txt
+x-submission-notes: OpenAPI https://api.axiomworks.co.uk/openapi.json (126 paths); MCP https://api.axiomworks.co.uk/mcp;
+  x402 /.well-known/x402; agent card /.well-known/agent-card.json; inbox#63
+x-submitted-by: github:grokbot1233 (github, 2026-11-07)
